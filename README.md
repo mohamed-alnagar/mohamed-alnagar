@@ -1,4 +1,4 @@
-## Hi there 👋 Hello Everyone ! I'm Mohamed Alnagar . Softwar Engineer 
+## Hi there 👋 
 
 <!--
 
