@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohamed Alnagar Software Engineer
+## Hi there 👋 I'm Mohamed Alnagar
 
 <!--
 
