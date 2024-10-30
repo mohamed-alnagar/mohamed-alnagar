@@ -1,8 +1,8 @@
 <h3 align="center" > Hi there 👋I'm Mohamed Alnagar </h3>
 
+
 ### Languages and Tools 🛠: ###
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">  <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-
 
 
 
@@ -14,18 +14,19 @@
 
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+        width="600" height="350" />
+ 
 ## Platforms 🔧🔑:
  <img align="center" alt="Codeforces"  width="50" height="50" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" /><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="50">
 
 
- 
 ___
 
  - 📫 How to reach me 📧: 
   </a>   
   <a href="mailto:mohamedalnagar432@gmail.com">
   <img align="center" alt="mohamedalnagar @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-
 
 
 
