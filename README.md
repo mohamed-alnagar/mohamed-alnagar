@@ -1,4 +1,6 @@
-<h3 align="center" > Hi there 👋I'm Mohamed Alnagar </h3> <p align="center">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Mohamed+Alnagar" alt="Typing SVG" />
+</h3>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ1azZpajZhaWtucGFqNGVpZHd3Y2UzcHhoMWtvZGE5dDg3d2JxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
 </p>
 
