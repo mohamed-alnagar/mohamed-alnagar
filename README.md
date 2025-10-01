@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## 👋 About Me  
+## 👨‍🎓 About Me  
 
 - 👀 Interested in **Software Engineering** and **Competitive Programming**  
 - 🎓 **Computer Engineering Graduate**  
