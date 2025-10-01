@@ -1,8 +1,16 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there+!+👋;I'm+Mohamed+Alnagar;Junior+Software+Development+Engineer" alt="Typing SVG" />
-</h3>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ1azZpajZhaWtucGFqNGVpZHd3Y2UzcHhoMWtvZGE5dDg3d2JxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+Alnagar....;Software+Engineer;Full-Stack+Developer;Competitive+Programmer;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+## 👋 About Me  
+
+- 👀 Interested in **Software Engineering** and **Competitive Programming**  
+- 🎓 **Computer Engineering Graduate**  
+- 💡 Curious by nature, always eager to explore and learn new technologies  
+- 🌍 Open to challenges and ready to adapt to any software engineering domain  
+
 
 ### Languages and Tools 🛠: ###
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">  <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
